@@ -1,0 +1,23 @@
+.menu-local-navbar {
+  height: 50px;
+  margin-top: 0;
+  padding: 1rem 0rem 4rem 0rem;
+}
+.pruducts-section {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    display: grid;
+  grid-template-columns: auto auto auto;
+  gap: 4rem 2rem;
+  padding: 2rem;
+}
+.product-item img {
+  width: 300px;
+}
+.product-item p {
+  text-align: center;
+  padding: 1rem;
+  font-size: 18px;
+}
